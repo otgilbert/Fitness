@@ -1,0 +1,16 @@
+{
+  "name": "Fitness Hub — 40th Birthday",
+  "short_name": "Fitness Hub",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%231a1a18'/><text y='130' x='30' font-size='120' font-family='system-ui'>💪</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
